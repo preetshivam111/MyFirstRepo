@@ -10,7 +10,13 @@ namespace MyFirstProject
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("My First Github Code");
+
+            Console.WriteLine("My Second Github Code");
+            Console.WriteLine("My Third Github Code");
+            Console.WriteLine("My Third Github Code");
+            Console.WriteLine("My Third Github Code");
+            Console.WriteLine("My Third Github Code");
+
         }
     }
 }
