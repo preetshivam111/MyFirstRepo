@@ -13,6 +13,9 @@ namespace MyFirstProject
 
             Console.WriteLine("My Second Github Code");
             Console.WriteLine("My Third Github Code");
+            Console.WriteLine("My Third Github Code");
+            Console.WriteLine("My Third Github Code");
+            Console.WriteLine("My Third Github Code");
 
         }
     }
